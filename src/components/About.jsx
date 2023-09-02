@@ -19,7 +19,7 @@ const About = () => {
           </div>
           <div>
             <p>
-              I'm an IT Fresher eager to kickstart a career in the technology
+              An IT Fresher eager to kickstart a career in the technology
               industry. Adept at learning new technologies, with a solid
               foundation in programming languages and problem-solving skills.
               Dedicated to contributing effectively to projects and motivated to
