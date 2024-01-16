@@ -1,6 +1,6 @@
 import React from "react";
 import Netflix from "../assests/netflix.png";
-import Dashboard from "../assests/dashboard.png";
+import Moviebot from "../assests/moviebot.png";
 import TicTacToe from "../assests/tictactoe.png"
 
 const Work = () => {
@@ -53,7 +53,7 @@ const Work = () => {
           </div>
           <div>
           <div
-            style={{ backgroundImage: `url(${Dashboard})` }}
+            style={{ backgroundImage: `url(${Moviebot})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effect */}
@@ -63,13 +63,13 @@ const Work = () => {
                 Next JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://dashboard-web-tau.vercel.app/" target="blank">
+                <a href="https://movie-bot-eosin-seven.vercel.app/" target="blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
                 <a
-                  href="https://github.com/abhichandra03/Dashboard-web"
+                  href="https://github.com/abhichandra03/MovieBot"
                   target="blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
@@ -79,11 +79,11 @@ const Work = () => {
               </div>
             </div>
           </div>
-          <p className="py-6 justify-center text-center font-bold text-gray-400">Dashboard</p>
+          <p className="py-6 justify-center text-center font-bold text-gray-400">MovieBot</p>
           </div>
           <div>
           <div
-            style={{ backgroundImage: `url(${TicTacToe})` }}
+            style={{ backgroundImage: `url(${TicTacToe})`}}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effect */}
