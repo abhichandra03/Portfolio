@@ -42,35 +42,35 @@ const Skills = () => {
               id={"slider"} ref={scrollContainerRef} onScroll={handleScroll}
               className="flex flex-nowrap items-center w-full h-full text-center my-4 py-8 overflow-x-scroll scroll-smooth no-scrollbar"
             >
-              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[4.0px_8.0px_8.0px_rgba(0,0,0,0.38)] hover:scale-110 duration-500 mx-8 p-8">
+              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[0_3px_10px_rgb(0,0,0,0.2)] hover:scale-110 duration-500 mx-8 p-8">
                 <img className="w-20 mx-auto" src={ReactImg} alt="" />
                 <p className="my-4">ReactJS</p>
               </div>
-              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[4.0px_8.0px_8.0px_rgba(0,0,0,0.38)] hover:scale-110 duration-500 mx-8 p-8">
+              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[0_3px_10px_rgb(0,0,0,0.2)] hover:scale-110 duration-500 mx-8 p-8">
                 <img className="w-20 mx-auto" src={Next} alt="" />
                 <p className="my-4">NextJS</p>
               </div>
-              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[4.0px_8.0px_8.0px_rgba(0,0,0,0.38)] hover:scale-110 duration-500 mx-8 p-8">
+              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[0_3px_10px_rgb(0,0,0,0.2)] hover:scale-110 duration-500 mx-8 p-8">
                 <img className="w-20 mx-auto" src={JavaScript} alt="" />
                 <p className="my-4">JavaScript</p>
               </div>
-              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[4.0px_8.0px_8.0px_rgba(0,0,0,0.38)] hover:scale-110 duration-500 mx-8 p-8">
+              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[0_3px_10px_rgb(0,0,0,0.2)] hover:scale-110 duration-500 mx-8 p-8">
                 <img className="w-20 mx-auto" src={Typescript} alt="" />
                 <p className="my-4">TypeScript</p>
               </div>
-              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[4.0px_8.0px_8.0px_rgba(0,0,0,0.38)] hover:scale-110 duration-500 mx-8 p-8">
+              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[0_3px_10px_rgb(0,0,0,0.2)] hover:scale-110 duration-500 mx-8 p-8">
                 <img className="w-20 mx-auto" src={Java} alt="" />
                 <p className="my-4">Java</p>
               </div>
-              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[4.0px_8.0px_8.0px_rgba(0,0,0,0.38)] hover:scale-110 duration-500 mx-8 p-8">
+              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[0_3px_10px_rgb(0,0,0,0.2)] hover:scale-110 duration-500 mx-8 p-8">
                 <img className="w-20 mx-auto" src={Tailwind} alt="" />
                 <p className="my-4">TailwindCSS</p>
               </div>
-              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[4.0px_8.0px_8.0px_rgba(0,0,0,0.38)] hover:scale-110 duration-500 mx-8 p-8">
+              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[0_3px_10px_rgb(0,0,0,0.2)] hover:scale-110 duration-500 mx-8 p-8">
                 <img className="w-20 mx-auto" src={Github} alt="" />
                 <p className="my-4">Github</p>
               </div>
-              <div className="min-w-[300px] lg:min-w-[500px] w-full shadow-md shadow-[4.0px_8.0px_8.0px_rgba(0,0,0,0.38)] hover:scale-110 duration-500 mx-8 p-8">
+              <div className="min-w-[300px] lg:min-w-[400px] shadow-md shadow-[0_3px_10px_rgb(0,0,0,0.2)] hover:scale-110 duration-500 mx-8 p-8">
                 <img className="w-20 mx-auto" src={HTML} alt="" />
                 <p className="my-4">HTML</p>
               </div>
