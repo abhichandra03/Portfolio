@@ -124,7 +124,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href={require("../assests/Abhishek'sResume.pdf")}
+              href={require("../assests/ResumeAbhishek.pdf")}
               download="Abhishek Chandra's Resume"
             >
               Resume <BsFillPersonLinesFill size={30} />
