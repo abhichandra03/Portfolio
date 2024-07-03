@@ -19,11 +19,7 @@ const About = () => {
           </div>
           <div>
             <p>
-              An IT Fresher eager to kickstart a career in the technology
-              industry. Adept at learning new technologies, with a solid
-              foundation in programming languages and problem-solving skills.
-              Dedicated to contributing effectively to projects and motivated to
-              grow both professionally and personally.
+            Passionate about software and web development, I'm enthusiastic about launching my career in this dynamic field. Proficient in ReactJS, NextJS, JavaScript, TailwindCSS and Core Java, I'm prepared to deliver innovative solutions to your team. Let's connect and explore how I can contribute to your organization!"
             </p>
           </div>
         </div>

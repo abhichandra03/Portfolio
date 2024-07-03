@@ -112,19 +112,17 @@ const Navbar = () => {
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-red-400">
-            <Link
+            <a
               className="flex justify-between items-center w-full text-gray-300"
-              to="contact"
-              smooth={true}
-              duration={500}
+              href='mailto:abhichandra03@gmail.com'
             >
               Email <HiOutlineMail size={30} />
-            </Link>
+            </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href={require("../assests/ResumeAbhishek.pdf")}
+              href={require("../assests/ResumeAbhishekChandra.pdf")}
               download="Abhishek Chandra's Resume"
             >
               Resume <BsFillPersonLinesFill size={30} />
